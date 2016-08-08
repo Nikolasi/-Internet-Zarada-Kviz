@@ -1,0 +1,5 @@
+c:\users\nikolasi\documents\visual studio 2015\Projects\Internet Zarada Kviz\Internet Zarada Kviz\obj\Debug\Internet Zarada Kviz.csprojResolveAssemblyReference.cache
+c:\users\nikolasi\documents\visual studio 2015\Projects\Internet Zarada Kviz\Internet Zarada Kviz\bin\Debug\Internet Zarada Kviz.exe
+c:\users\nikolasi\documents\visual studio 2015\Projects\Internet Zarada Kviz\Internet Zarada Kviz\bin\Debug\Internet Zarada Kviz.pdb
+c:\users\nikolasi\documents\visual studio 2015\Projects\Internet Zarada Kviz\Internet Zarada Kviz\obj\Debug\Internet Zarada Kviz.exe
+c:\users\nikolasi\documents\visual studio 2015\Projects\Internet Zarada Kviz\Internet Zarada Kviz\obj\Debug\Internet Zarada Kviz.pdb
